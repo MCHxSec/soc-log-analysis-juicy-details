@@ -34,7 +34,7 @@ The exercise focused on interpreting logs from web access, authentication events
 
 A detailed walkthrough of the investigation—including log analysis methodology, attacker behavior mapping, and final conclusions—is available below:
 
-📥 [Download the Walkthrough (PDF)](./Juicy_Details_Walkthrough.pdf)
+📥 [Download the Walkthrough (PDF)](./Juicy%20Details%20Walkthrough.pdf)
 
 ---
 
