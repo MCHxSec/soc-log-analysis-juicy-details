@@ -41,7 +41,6 @@ A detailed walkthrough of the investigation—including log analysis methodology
 ## 🔗 Related Links
 
 - 🌐 **Walkthrough Page on My Site:** [mchxsec.com/walkthroughs](https://mchxsec.com/walkthroughs)
-- 💼 **LinkedIn Post:** *Coming soon*
 - 🧩 **TryHackMe Room:** [Juicy Details on TryHackMe](https://tryhackme.com/room/juicydetails)
 
 ---
